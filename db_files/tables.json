@@ -1,0 +1,1 @@
+{"library": {"fields": ["name", "books", "address"], "key field name": "name"}, "book": {"fields": ["id", "name", "writer", "pages"], "key field name": "id"}}
